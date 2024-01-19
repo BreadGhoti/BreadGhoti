@@ -1,5 +1,5 @@
 <p align="center">
-Heyo! I'm BreadGhoti!
+Heyo! I'm < a href="mailto:breadghoti@gmail.com">BreadGhoti< /a>!
 I'm an aspiring amateur devloper, I mostly use HTML/CSS, JS, and Py<br>
 </p>
 
