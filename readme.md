@@ -28,5 +28,5 @@ More Info on BreadGhoti1's Github Account: https://octoprofile.vercel.app/user?i
 </p>
 
 <div align="center">
-<script async id="asciicast-yPNPVVXvWJK4fvQoJlvrXRykF" src="https://asciinema.org/a/yPNPVVXvWJK4fvQoJlvrXRykF.js"></script>
+<a href="https://asciinema.org/a/yPNPVVXvWJK4fvQoJlvrXRykF" target="_blank"><img src="https://asciinema.org/a/yPNPVVXvWJK4fvQoJlvrXRykF.svg" /></a>
 </div>
