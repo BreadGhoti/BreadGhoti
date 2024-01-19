@@ -28,5 +28,7 @@ More Info on BreadGhoti1's Github Account: https://octoprofile.vercel.app/user?i
 </p>
 
 <div align="center">
-<embed src="https://youtube.com" style="width:500px; height: 300px;">
+<iframe src="https://youtube.com" width="100%" height="300">
+  <p>Your browser does not support iframes.</p>
+</iframe>
 </div>
