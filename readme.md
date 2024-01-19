@@ -28,5 +28,5 @@ More Info on BreadGhoti1's Github Account: https://octoprofile.vercel.app/user?i
 </p>
 
 <div align="center">
-![silly](https://github.com/BreadGhoti1/silly/blob/main/download.gif)
+    ![silly](https://github.com/BreadGhoti1/silly/blob/main/download.gif)
 </div>
