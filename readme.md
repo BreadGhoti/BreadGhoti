@@ -29,6 +29,6 @@ More Info on BreadGhoti1's Github Account: https://octoprofile.vercel.app/user?i
 </p>
 
 <div align="center">
-<img src="https://github.com/BreadGhoti1/silly/blob/main/goobler.gif" alt="silly2.0" title="Silly" width="500"/>
+<img src="https://github.com/BreadGhoti1/silly/blob/main/goobler.gif" alt="silly2.0" title="I-am-not-stinky" width="500"/>
 </div>
 
