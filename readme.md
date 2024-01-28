@@ -34,6 +34,6 @@ More Info on BreadGhoti's Github Account: https://octoprofile.vercel.app/user?id
 
 
 
-<p align="center" style="font-size:50%;">
+<p align="center" style="font-size:50%";>
 I suck at coding LOL<br>
 </p>
