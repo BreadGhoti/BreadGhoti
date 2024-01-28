@@ -1,5 +1,5 @@
 <p align="center">
-Heyo! I'm BreadGhoti!
+Heyo! I'm <b>BreadGhoti!</b>
 I'm an aspiring amateur devloper, I mostly use HTML/CSS, JS, and Py<br>
 </p>
 <div align="center">
