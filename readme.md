@@ -35,5 +35,5 @@ More Info on BreadGhoti's Github Account: https://octoprofile.vercel.app/user?id
 
 
 <p align="center">
-<img src="https://github.com/BreadGhoti/silly/blob/main/i%20suck%20at%20coding%20lol%20(1).svg" alt="i-suck" title="i-really-do" width="100"/>
+<img src="https://github.com/BreadGhoti/silly/blob/main/i%20suck%20at%20coding%20lol%20(2).svg" alt="i-suck" title="i-really-do" width="100"/>
 </p>
