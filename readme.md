@@ -32,3 +32,8 @@ More Info on BreadGhoti's Github Account: https://octoprofile.vercel.app/user?id
 <img src="https://github.com/BreadGhoti/silly/blob/main/goobler.gif" alt="silly2.0" title="I-am-not-stinky" width="500"/>
 </div>
 
+
+
+<p align="center">
+I suck at coding LOL<br>
+</p>
