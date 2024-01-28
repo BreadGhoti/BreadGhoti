@@ -35,5 +35,5 @@ More Info on BreadGhoti's Github Account: https://octoprofile.vercel.app/user?id
 
 
 <p align="center">
-<span style="font-size:0.5em;">i suck at coding lol</span><br>
+<span style="font-size:0.5;">i suck at coding lol</span><br>
 </p>
