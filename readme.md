@@ -1,6 +1,6 @@
 <p align="center">
 Heyo! I'm <b>BreadGhoti!</b>
-I'm an aspiring amateur devloper, I mostly use HTML/CSS, JS, and Py<br>
+I'm a devloper, I mostly use HTML/CSS, JS, Py, and C#<br>
 </p>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Never;Gonna;Give;You;Up;Never;Gonna;Let;You;Down;Never;Gonna;Run;Around;And;Desert;You;+;+;+;+;+;Wow+you+acctually;waited+through;all+that;I+call+that+dedication!" alt="Typing SVG" /></a>
